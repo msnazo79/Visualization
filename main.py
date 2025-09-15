@@ -18,3 +18,12 @@ plt.bar(students, scores, color="skyblue")
 plt.title("نمرات دانش‌آموزان")
 plt.ylabel("نمره")
 plt.show()
+
+
+students = ["علی", "رضا", "مریم", "سارا"]
+scores = [18, 19, 17, 20]
+
+plt.bar(students, scores, color="skyblue")
+plt.title("نمرات دانش‌آموزان")
+plt.ylabel("نمره")
+plt.show()

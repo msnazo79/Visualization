@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8491d589-327c-4a34-8b56-4cbbf5540cef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Visualization.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="8491d589-327c-4a34-8b56-4cbbf5540cef" name="Changes" comment="This example code has been developed to display a plot.&#10;This example uses the matplotlib python library." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -75,6 +71,32 @@
       <option name="presentableId" value="Default" />
       <updated>1757924655098</updated>
     </task>
+    <task id="LOCAL‎−۰۰۰۰۱" summary="This example code has been developed to display a plot.&#10;This example uses the matplotlib python library.">
+      <option name="closed" value="true" />
+      <created>1757925423106</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۱" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۱" />
+      <updated>1757925423106</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۰۲" summary="This example code has been developed to display a plot.&#10;This example uses the matplotlib python library.">
+      <option name="closed" value="true" />
+      <created>1757925682082</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۲" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۲" />
+      <updated>1757925682082</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۰۳" summary="This example code has been developed to display a plot.&#10;This example uses the matplotlib python library.">
+      <option name="closed" value="true" />
+      <created>1757925697478</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۳" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۳" />
+      <updated>1757925697478</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This example code has been developed to display a plot.&#10;This example uses the matplotlib python library." />
+    <option name="LAST_COMMIT_MESSAGE" value="This example code has been developed to display a plot.&#10;This example uses the matplotlib python library." />
   </component>
 </project>
