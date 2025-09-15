@@ -14,6 +14,7 @@ plt.show()
 students = ["علی", "رضا", "مریم", "سارا"]
 scores = [18, 19, 17, 20]
 
+
 plt.bar(students, scores, color="skyblue")
 plt.title("نمرات دانش‌آموزان")
 plt.ylabel("نمره")
@@ -26,4 +27,14 @@ scores = [18, 19, 17, 20]
 plt.bar(students, scores, color="skyblue")
 plt.title("نمرات دانش‌آموزان")
 plt.ylabel("نمره")
+plt.show()
+
+
+import numpy as np
+
+data = np.random.randint(10, 20, size=50)  # ۵۰ نمره تصادفی
+plt.hist(data, bins=5, color="orange", edgecolor="black")
+plt.title("توزیع نمرات")
+plt.xlabel("بازه نمرات")
+plt.ylabel("تعداد")
 plt.show()

@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8491d589-327c-4a34-8b56-4cbbf5540cef" name="Changes" comment="This example code has been developed to display a plot.&#10;This example uses the matplotlib python library." />
+    <list default="true" id="8491d589-327c-4a34-8b56-4cbbf5540cef" name="Changes" comment="This example code has been developed to display a plot.&#10;This example uses the matplotlib python library.">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +94,14 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۰۳" />
       <updated>1757925697478</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL‎−۰۰۰۰۴" summary="This example code has been developed to display a plot.&#10;This example uses the matplotlib python library.">
+      <option name="closed" value="true" />
+      <created>1757926556937</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۴" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۴" />
+      <updated>1757926556937</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
